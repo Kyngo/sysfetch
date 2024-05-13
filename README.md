@@ -28,4 +28,4 @@ You can further configure SysFetch to display exactly what you want it to. Throu
 SysFetch supports almost 150 different operating systems. From Linux to Windows, all the way to more obscure operating systems like Minix, AIX and Haiku. If your favourite operating system is unsupported: Open up an issue and support will be added.
 
 
-### More: \[[Dependencies](https://github.com/kyngo/sysfetch/wiki/Dependencies)\] \[[Installation](https://github.com/kyngo/sysfetch/wiki/Installation)\] \[[Wiki](https://github.com/kyngo/sysfetch/wiki)\]
+<!-- ### More: \[[Dependencies](https://github.com/kyngo/sysfetch/wiki/Dependencies)\] \[[Installation](https://github.com/kyngo/sysfetch/wiki/Installation)\] \[[Wiki](https://github.com/kyngo/sysfetch/wiki)\] -->

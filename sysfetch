@@ -5232,6 +5232,9 @@ DEVELOPER:
 
 Report bugs to https://github.com/kyngo/sysfetch/issues
 
+This project is a fork of the original Neofetch, by dylanaraps. Huge shoutout to them.
+Original project archive link: https://github.com/dylanaraps/neofetch
+
 "
 exit 1
 }
