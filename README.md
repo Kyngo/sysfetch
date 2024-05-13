@@ -4,7 +4,7 @@ This is a fork with a different name. This repo uses another name in order to no
 
 # SysFetch
 
-[![Neofetch old logo](https://i.imgur.com/ZQI2EYz.png)]
+![Neofetch old logo](https://i.imgur.com/ZQI2EYz.png)
 <p align="center">A command-line system information tool written in bash 3.2+</p>
 
 <p align="center">
@@ -13,7 +13,7 @@ This is a fork with a different name. This repo uses another name in order to no
 <a href="https://repology.org/metapackage/sysfetch"><img src="https://repology.org/badge/tiny-repos/sysfetch.svg" alt="Packaging status"></a>
 </p>
 
-[![Examples](https://i.imgur.com/GFmC5Ad.png)]
+![Examples](https://i.imgur.com/GFmC5Ad.png)
 
 SysFetch is a command-line system information tool written in `bash 3.2+`. SysFetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 
@@ -21,7 +21,7 @@ The overall purpose of SysFetch is to be used in screen-shots of your system. Sy
 
 The information by default is displayed alongside your operating system's logo. You can further configure SysFetch to instead use an image, a custom ASCII file, your wallpaper or nothing at all.
 
-[![Examples](https://i.imgur.com/lUrkQBN.png)]
+![Examples](https://i.imgur.com/lUrkQBN.png)
 
 You can further configure SysFetch to display exactly what you want it to. Through the use of command-line flags and the configuration file you can change existing information outputs or add your own custom ones.
 
